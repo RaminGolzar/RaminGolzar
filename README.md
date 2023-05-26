@@ -5,6 +5,7 @@
 + I have a relative mastry of the #CodeIgniter v4.0+ framework.
 + I am familiar with HTML , CSS & JavaScript.
 
-## Skills
-
-**HTML**
+> ## Skills
+>
+> HTML CSS JavaScript
+> PHP MYSQL CodeIgniter MVC
