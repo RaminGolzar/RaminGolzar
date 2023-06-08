@@ -9,15 +9,21 @@
 
 ## 💡 My Skills
 
-🔸 HTML <br>
-🔹 CSS <br>
-🔸 JavaScript <br>
-🔹 jQuery <br>
-🔸 AJAX <br>
-🔹 W3.CSS <br>
-🔸 PHP <br>
-🔹 MYSQL <br>
-🔸 CodeIgniter <br>
-🔹 MVC <br>
-🔸 Git <br>
-🔹 Linux Esenssial
+### 🔰 Front-End
+🔸 HTML <br />
+🔸 CSS <br />
+🔸 JavaScript <br />
+🔸 jQuery <br />
+🔸 AJAX <br />
+🔸 W3.CSS <br />
+
+### 🔰 Back-End
+🔸 PHP <br />
+🔸 MYSQL <br />
+🔸 CodeIgniter <br />
+🔸 MVC <br />
+
+### 🔰 Other
+🔸 Git - VCS <br />
+🔸 Ubuntu Linux (Esenssial) - OS <br />
+🔸 NetBeans - IDE
